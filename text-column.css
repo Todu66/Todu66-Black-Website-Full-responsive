@@ -1,0 +1,62 @@
+
+
+.selected {
+    color: rgba(227, 228, 230, 0.55);
+    font-size: 2.5rem;
+    margin-top: 5rem;
+}
+.selected span {
+    color: #fff;
+}
+
+.real {
+    color: #fff;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.lorem {
+    color: rgba(227, 228, 230, 0.55);
+    font-size: 2rem;
+    margin-top: 1rem;
+    font-weight: 300;
+}
+.lorem span {
+    color: #fff;
+}
+
+.website {
+    color: rgba(227, 228, 230, 0.55);
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.first-text {
+    align-self: flex-end;
+    margin-bottom: 1.5rem;
+}
+
+.view-work {
+    color: rgba(227, 228, 230, 0.55);
+    margin-top: 1rem;
+    display: inline-block;
+    border: 2px solid rgba(227, 228, 230, 0.55);;
+    padding: 0.5rem 1.2rem;    
+    border-radius: 1rem;
+}
+
+.first-text .view-work:hover {
+    background: linear-gradient(99.05deg, #BC3CD8 0.07%, #C54B8C 106.32%);
+}
+
+
+
+.view-work a { 
+    color: #E3E4E6; 
+    text-transform: uppercase;
+}
+
+.link {
+    text-align: center;
+}
